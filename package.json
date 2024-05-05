@@ -1,0 +1,12 @@
+{
+    "name": "pulumiAuth0Test",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^18"
+    },
+    "dependencies": {
+        "@pulumi/auth0": "^3.3.1",
+        "@pulumi/pulumi": "^3.113.0",
+        "typescript": "^5.0.0"
+    }
+}
